@@ -10,8 +10,7 @@
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **ambitious projects**
-
-- 💬 Ask me about **Python, C++, C, Django**
+- 💬 Ask me about **Python, C++, C, Django, Javascript, Html, CSS**
 
 - 📫 How to reach me **atishayjain2003@gmail.com**
 
